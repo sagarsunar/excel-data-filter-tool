@@ -44,7 +44,6 @@ node index.js
 ```bash
 excel-tool/
 │
-├── node_modules/                  # Contains all npm packages
 ├── src/
 │   ├── services/
 │   │   ├── downloadExcel.js        # Handles downloading Excel file from URL
